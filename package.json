@@ -1,11 +1,11 @@
 {
-  "name": "@reportportal/agent-js-jest-detox",
+  "name": "@rzr7/reportportal-agent-js-jest-detox",
   "version": "5.0.4",
   "description": "A Detox Jest reporter that uploads test results to ReportPortal",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reportportal/agent-js-jest.git"
+    "url": "git+https://github.com/Rzr7/agent-js-jest-detox.git"
   },
   "author": "ReportPortal.io",
   "contributors": [
@@ -56,12 +56,13 @@
     "eslint-plugin-node": "^11.1.0"
   },
   "bugs": {
-    "url": "https://github.com/reportportal/agent-js-jest/issues"
+    "url": "https://github.com/Rzr7/agent-js-jest-detox/issues"
   },
-  "homepage": "https://github.com/reportportal/agent-js-jest#readme",
+  "homepage": "https://github.com/Rzr7/agent-js-jest-detox#readme",
   "keywords": [
     "epam",
     "reportportal",
+    "detox",
     "rp",
     "jest"
   ]
