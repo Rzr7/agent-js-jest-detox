@@ -52,7 +52,7 @@ jobs:
       - name: Publish to GPR
         run: |
           npm config set //npm.pkg.github.com/:_authToken=$NODE_AUTH_TOKEN
-          npm config set scope '@reportportal'
+          npm config set scope '@rzr7'
           npm config list
           npm publish
         env:
