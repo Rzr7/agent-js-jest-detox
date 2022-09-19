@@ -1,4 +1,6 @@
 
+## [5.2.0] - 2022-09-19
+
 ## [5.1.1] - 2022-09-19
 ### Added
 - Detox support - artifacts as attachments, rerun handling on failing tests.
