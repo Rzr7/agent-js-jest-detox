@@ -1,6 +1,6 @@
 {
   "name": "@rzr7/reportportal-agent-js-jest-detox",
-  "version": "5.0.4",
+  "version": "5.1.0",
   "description": "A Detox Jest reporter that uploads test results to ReportPortal",
   "main": "index.js",
   "repository": {
